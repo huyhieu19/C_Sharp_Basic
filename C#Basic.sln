@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C19_DateTimeMethods", "C#Basic\C19_DateTimeMethods.csproj", "{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C19_DateTimeMethods", "C#Basic\C19_DateTimeMethods.csproj", "{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C5_Equality_Operator", "C5_Equality_Operator\C5_Equality_Operator.csproj", "{BFDF292D-D4D7-481B-8AA1-85FD2B6339DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C27_CSharpCollection", "C27_CSharpCollection\C27_CSharpCollection.csproj", "{E3C2569C-5AA9-40C4-A1B8-E52034164482}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDF292D-D4D7-481B-8AA1-85FD2B6339DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDF292D-D4D7-481B-8AA1-85FD2B6339DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDF292D-D4D7-481B-8AA1-85FD2B6339DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDF292D-D4D7-481B-8AA1-85FD2B6339DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C2569C-5AA9-40C4-A1B8-E52034164482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C2569C-5AA9-40C4-A1B8-E52034164482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C2569C-5AA9-40C4-A1B8-E52034164482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C2569C-5AA9-40C4-A1B8-E52034164482}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
