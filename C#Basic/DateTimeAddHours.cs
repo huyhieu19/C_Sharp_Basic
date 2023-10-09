@@ -1,4 +1,4 @@
-﻿namespace C_Basic
+﻿namespace C19_DateTimeMethods
 {
     internal class DateTimeAddHours
     {

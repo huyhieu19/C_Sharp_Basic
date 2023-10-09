@@ -1,6 +1,6 @@
 ﻿
 // Section 19.2: DateTime.AddDays(Double)
-namespace C_Basic
+namespace C19_DateTimeMethods
 {
     public class DateTimeAddDays
     {

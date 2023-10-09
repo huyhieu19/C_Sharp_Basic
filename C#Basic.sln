@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.DateTime Methods", "C#Basic\19.DateTime Methods.csproj", "{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C19_DateTimeMethods", "C#Basic\C19_DateTimeMethods.csproj", "{937A77CB-C43E-459A-9E8A-0F8FCA8EB392}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
