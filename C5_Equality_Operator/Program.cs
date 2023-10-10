@@ -1,3 +1,3 @@
-﻿using C5_Equality_Operator;
+﻿using C005_Equality_Operator;
 
 EqualityOperator.
