@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C005_Equality_Operator", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C027_CSharpCollection", "C27_CSharpCollection\C027_CSharpCollection.csproj", "{E3C2569C-5AA9-40C4-A1B8-E52034164482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C031_ValueTypevsReferenceType", "C031_ValueTypevsReferenceType\C031_ValueTypevsReferenceType.csproj", "{09613FD4-23FA-497C-B90F-2A3448A16D27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C031_ValueTypevsReferenceType", "C031_ValueTypevsReferenceType\C031_ValueTypevsReferenceType.csproj", "{09613FD4-23FA-497C-B90F-2A3448A16D27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{4B5D651A-3014-4366-9A7D-DC22124B3D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Template", "Template\Template.csproj", "{4B5D651A-3014-4366-9A7D-DC22124B3D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C032_Built_in_Types", "C032_Built_in_Types\C032_Built_in_Types.csproj", "{78B4C626-5EF4-4019-98E4-64826ADBC092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C032_Built_in_Types", "C032_Built_in_Types\C032_Built_in_Types.csproj", "{78B4C626-5EF4-4019-98E4-64826ADBC092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C034_AnonymousTypes", "C034_AnonymousTypes\C034_AnonymousTypes.csproj", "{AE49A54D-5AB0-446B-AAED-9D51731998E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{78B4C626-5EF4-4019-98E4-64826ADBC092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78B4C626-5EF4-4019-98E4-64826ADBC092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78B4C626-5EF4-4019-98E4-64826ADBC092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE49A54D-5AB0-446B-AAED-9D51731998E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE49A54D-5AB0-446B-AAED-9D51731998E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE49A54D-5AB0-446B-AAED-9D51731998E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE49A54D-5AB0-446B-AAED-9D51731998E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
